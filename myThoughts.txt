@@ -1,0 +1,7 @@
+build an app to show local weather
+
+the app will use geolocation to determine the location of browser making the api call an provide weather
+
+
+get API key from wwww.wunderground.com
+
